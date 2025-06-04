@@ -1,5 +1,5 @@
-Wenak = enak
-Bansos = bantuan sosial
+wenak = enak
+bansos = bantuan sosial
 ybs = yang bersangkutan
 tu = itu
 dpt = daoat
