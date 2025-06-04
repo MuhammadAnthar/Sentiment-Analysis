@@ -17,6 +17,7 @@ kalo = jika
 kalau = jika
 kl = jika
 tp = tapi
+daoat = dapat
 tpu = tapi
 ya = iya
 iy = iya
